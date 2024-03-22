@@ -1,12 +1,15 @@
-## Lightning X 5.1.2 (2023)
-• Some Improvements and bugfixes
+### v5.1.2 (2023)
 
-## Lightning X 5.1.1 (2023)
-• Added Seatbelt
-• Added Enable/Disable Info Overlay
-• Fixed No-Ragdoll (Breaking on any collision)
+* Improved functionality and bug fixes.
 
-## Lightning X 5.1 (2023)
-• Fixed No-Clip direction
-• Fixed Translation Loading
-• Some Improvements and bugfixes
+### v5.1.1 (2023)
+
+* Added seatbelt feature.
+* Introduced enable/disable option for info overlay.
+* Fixed bug preventing ragdoll physics (rigid character on collision).
+
+### v5.1.0 (2023)
+
+* Fixed no-clip functionality issue.
+* Fixed translation loading bug.
+* Implemented various improvements and bug fixes.
