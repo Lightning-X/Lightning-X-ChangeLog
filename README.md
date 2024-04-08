@@ -1,1 +1,1 @@
-New changes are coming soon!
+• New changes are coming soon!
