@@ -1,3 +1,5 @@
+*Remember, these are just for fun and not meant for an actual software release!*
+
 ## Version 5.0.1
 
 - Fixed bug causing squirrels to appear in the code 🐿️
@@ -15,5 +17,3 @@
 - Added support for emojis in error messages, because why be sad when you can be 😄?
 - Integrated a coffee dispenser feature (requires physical coffee dispenser attachment) ☕️
 - Improved AI chatbot to offer better life advice, though results may vary 🤷‍♂️
-
-*Remember, these are just for fun and not meant for an actual software release!*
