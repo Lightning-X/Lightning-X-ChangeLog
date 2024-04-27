@@ -1,2 +1,4 @@
+*Lightning-X is currently under update*
+
 ## Version 6.0
-- Coming soon!
+- Global Update (Coming soon!)
