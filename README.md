@@ -1,4 +1,4 @@
-## v6.0.0 (April 30, 2024)
+## v6.0.0 (April 30, 2024 21:03)
 - Added support for a new image format: WebP (experimental)
 - Introduced a customizable progress bar component for UI interactions
 - Implemented drag-and-drop functionality for file uploads within the application
