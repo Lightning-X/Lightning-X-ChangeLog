@@ -6,6 +6,8 @@
 - Added magic bullets
 - Added more customization settings
 - Added free Movement in Interior
+- Added ESP (Box, bones, tracers, names)
+- Added Visual GPS
 - Added tons of new options
 - Reworked notification system
 - Reworked UI
