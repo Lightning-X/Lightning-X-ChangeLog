@@ -1,7 +1,7 @@
-## Version 6.0.1
+## Version 6.0.1 ₁₃.₀₅.₂₀₂₄
 - Some improvements and bugfixes
 
-## Version 6.0
+## Version 6.0 ₁₂.₀₅.₂₀₂₄
 - Full rework of the menu
 - Added command system
 - Added crashes and kicks
