@@ -1,3 +1,6 @@
+## Version 6.0.1
+- Some improvements and bugfixes
+
 ## Version 6.0
 - Full rework of the menu
 - Added command system
