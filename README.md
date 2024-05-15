@@ -1,3 +1,10 @@
+## Version 6.0.2 ₁₄.₀₅.₂₀₂₄
+- Getting kicked when joining a mission
+- Not being able to talk to dealers
+- Falling through the ground when entering los santos customs
+- General issues with missions
+- Some improvements and bugfixes
+
 ## Version 6.0.1 ₁₃.₀₅.₂₀₂₄
 - Some improvements and bugfixes
 
