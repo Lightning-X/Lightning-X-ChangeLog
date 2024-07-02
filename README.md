@@ -1,3 +1,9 @@
+## Version 6.1 ₀₂.₀₇.₂₀₂₄
+- Updated to game version 1.69-3258
+- Added Network > Players > Send Friend Request
+- Removed Network > Players > Kicks > Ban kick (Patched)
+- Some improvements and bugfixes
+
 ## Version 6.0.2 ₁₄.₀₅.₂₀₂₄
 - Fixed getting kicked when joining a mission
 - Fixed not being able to talk to dealers
