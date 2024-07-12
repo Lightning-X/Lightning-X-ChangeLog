@@ -1,3 +1,6 @@
+## Version 6.1.1 ₁₁.₀₇.₂₀₂₄
+- Some improvements and bugfixes
+
 ## Version 6.1 ₀₂.₀₇.₂₀₂₄
 - Updated to game version 1.69-3258
 - Added Network > Players > Send Friend Request
