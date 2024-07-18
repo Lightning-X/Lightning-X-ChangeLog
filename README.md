@@ -1,3 +1,7 @@
+## Version 6.1.2 ₁₈.₀₇.₂₀₂₄
+- Updated to game version 1.69-3274
+- Fixed RID Joiner (automatic name conversion to RID)
+
 ## Version 6.1.1 ₁₁.₀₇.₂₀₂₄
 - Some improvements and bugfixes
 
