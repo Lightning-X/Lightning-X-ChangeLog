@@ -1,3 +1,6 @@
+## Version 6.1.3 ₂₆.₀₈.₂₀₂₄
+- Some improvements and bugfixes
+
 ## Version 6.1.2 ₁₈.₀₇.₂₀₂₄
 - Updated to game version 1.69-3274
 - Fixed RID Joiner (automatic name conversion to RID)
@@ -40,5 +43,3 @@
 - Improved vehicle spawner
 - Improved seamless joining
 - Some other improvements and bugfixes
-
-*Next updates will release more frequently*
