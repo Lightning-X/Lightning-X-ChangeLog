@@ -4,7 +4,7 @@
 - Re-Added Self > Appearance > Model Changer
 - Re-Added Self > Appearance > Walk Style
 - Added Ped Preview for Model Changer
-- Added Self > Miscellaneous > Screen Effects
+- Added > Miscellaneous > Screen Effects
 - Improved Horn Boost (Realistic Speed Change)
 - Improved Teleport To Waypoint
 - Temporary Disabled Run Commands Through Chat & Run Commands
