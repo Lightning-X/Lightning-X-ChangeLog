@@ -1,3 +1,15 @@
+## Version 6.1.4 (Nov 9 2024)
+- [THIS UPDATE IS REQUIRED TO BE USED WITH FSL](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)
+- Updated to game version 1.69-3351
+- Re-Added Self > Appearance > Model Changer
+- Re-Added Self > Appearance > Walk Style
+- Added Ped Preview for Model Changer
+- Added Self > Miscellaneous > Screen Effects
+- Improved Horn Boost (Realistic Speed Change)
+- Improved Teleport To Waypoint
+- Temporary Disabled Run Commands Through Chat & Run Commands
+- Temporary Disabled Box ESP
+
 ## Version 6.1.3 (Aug 26 2024)
 - Some improvements and bugfixes
 
