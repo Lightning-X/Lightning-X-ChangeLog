@@ -1,3 +1,8 @@
+## Version 6.1.5 (Nov 10 2024)
+- [THIS UPDATE IS REQUIRED TO BE USED WITH FSL](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)
+- Added Miscellaneous > Skip CutScene
+- Some improvements and bugfixes
+
 ## Version 6.1.4 (Nov 9 2024)
 - [THIS UPDATE IS REQUIRED TO BE USED WITH FSL](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)
 - Updated to game version 1.69-3351
